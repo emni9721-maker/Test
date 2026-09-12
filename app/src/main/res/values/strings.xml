@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZERO</string>
+    <string name="app_tagline">Encrypted Social &amp; Cloud Vault</string>
+    <string name="tab_feed">Feed</string>
+    <string name="tab_photos">Photos</string>
+    <string name="tab_albums">Albums</string>
+    <string name="tab_notifications">Activity</string>
+    <string name="tab_profile">Profile</string>
+    <string name="storage_used_label">Storage Used</string>
+    <string name="vault_locked_title">Vault Locked</string>
+    <string name="enter_pin_prompt">Enter 4-Digit Security PIN</string>
+</resources>
